@@ -1,7 +1,6 @@
-#### Software Architect and Designer
+# randix.github.io
 
-#### Profile
-
+Pages
 
 
 
