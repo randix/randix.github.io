@@ -1,4 +1,3 @@
-## Rand Dow
 
 #### [Profile](profile.md)
 
