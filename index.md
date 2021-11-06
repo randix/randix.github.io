@@ -1,4 +1,10 @@
-### Randix LLC
+#### Randix LLC
 
-My personal web site.
+Randix has over 50 years of combined experience developing software. 
+
+##### iOS AppStore Apps
+
+Kiosk Contacts
+
+[Documentation](https://randix.github.io/KioskContacts)
 
