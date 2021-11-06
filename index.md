@@ -4,10 +4,10 @@ Randix has over 50 years of combined experience developing software.
 
 ##### iOS AppStore Apps
 
-Kiosk Contacts
+*Kiosk Contacts* [Description](https://randix.github.io/KioskContacts)
 
-[Documentation](https://randix.github.io/KioskContacts)
-
-##### Owner Profile
+##### Profile
 
 [Profile](https://randix.github.io/profile)
+
+<font size=2>© 2021 Randix LLC</font>
