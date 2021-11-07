@@ -1,10 +1,12 @@
-<p/><span id="h1">Randall Dow</span><br/>
-<a href="mailto:rand.dow@me.com">rand.dow@me.com</a>
+### Rand Dow
+
+[rand@randix.net](mailto:rand@randix.net)
+
 <br/>
 Software Systems Consultant (applications, systems, networking, embedded, firmware)  
 
-<p/><span id="h2">Profile</span>
-<br/>
+#### Profile
+
 Experienced software systems consultant,
 designer and entrepreneur,
 and system administrator,
@@ -12,15 +14,14 @@ with proven success in multiple large and
 small enterprises.
 Career emphasis is focused on using technology
 to reasonably and efficiently meet enterprise needs.
-<br/>
-<ul>
-<li>Excellent communication skills</li>
-<li>Self-starter, independent, yet team-oriented</li>
-<li>Native language is English, close to natively fluent in German</li>
-</ul>
 
-<p/><span id="h2">Skills</span>
-<br/>
+- Excellent communication skills
+- Self-starter, independent, yet team-oriented
+- Native language is English, fluent in German
+
+
+#### Skills
+
 <ul>
 <li>Team leadership, project leadership, small company ownership</li>
 <li>IT architecture: software, systems, networking, applications, storage,
