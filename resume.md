@@ -9,7 +9,6 @@ Software Systems Consultant (applications, systems, networking, embedded, firmwa
 
 Experienced software systems consultant,
 designer and entrepreneur,
-and system administrator,
 with proven success in multiple large and
 small enterprises.
 Career emphasis is focused on using technology
@@ -22,16 +21,12 @@ to reasonably and efficiently meet enterprise needs.
 
 #### Skills
 
-<ul>
-<li>Team leadership, project leadership, small company ownership</li>
-<li>IT architecture: software, systems, networking, applications, storage,
-    monitoring and management</li>
-<li>Design: requirements analysis, specifications, testing requirements,
-    testability</li>
-<li>Languages: expert level in Swift, C and Python, proficient in Objective C, C++,
-    Assemblers, JavaScript, Shell and other languages</li>
-<li>Software and systems life cycles</li>
-<li>UNIX, Linux, iOS, MS-Windows, embedded systems (learning Android)</li>
+- Team leadership, project leadership, small company ownership
+- Architecture: software, systems, networking, applications, storage, monitoring and management
+- Design: requirements analysis, specifications, testing requirements, testability
+- Languages: expert level in Swift, C and Python, proficient in Objective C, C++, Assemblers, JavaScript, Shell and other languages
+- Software and systems life cycles
+<li>UNIX, Linux, iOS, MS-Windows, embedded systems
 <li>High reliability: 24x7, data center operations</li>
 <li>Technologies: networking, client-server, middleware, databases, backup,
     firewalls, system management, system monitoring, security, storage</li>
