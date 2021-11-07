@@ -1,108 +1,94 @@
-<p/><span id="h1">Randall Dow</span><br/>
-<a href="mailto:rand.dow@me.com">rand.dow@me.com</a>
+#### Rand Dow
+
+[rand@randix.net](mailto:rand@randix.net)
 <br/>
-Software Engineer Consultant (systems, networking, embedded, firmware)
+Software Engineer Consultant
 
-<p/><span id="h2">Profile</span>
-<br/>
-Experienced software engineer, system admininstrator, infrastructure
-designer and entrepreneur with proven success in multiple large and
-small enterprises. Career emphasis is focused on using technology
-to reasonably and efficiently meet enterprise needs.</p>
-<ul>
-<li>Excellent communication skills</li>
-<li>Self-starter, independent, yet team-oriented</li>
-<li>Native language is English, business fluent in German</li>
-</ul>
+<br/>systems, networking, embedded, firmware, cryptography, secure communications
 
-<p/><span id="h2">Skills</span>
-<ul>
-<li>Leadership: team, project, small company ownership</li>
-<li>Architecture: software, systems, networking, applications, storage,
-    monitoring and management</li>
-<li>Design: requirements analysis, specifications, testing requirements,
-    testability</li>
-<li>Languages: expert level in C and Python, proficient in Objective C, C++,
-    JavaScript, and others</li>
-<li>Software and systems life cycles</li>
-<li>UNIX, Linux, iOS, MS-Windows, embedded systems</li>
-<li>High reliability: 24x7, data center operations</li>
-<li>Technologies: networking, client-server, middleware, databases, backup,
-    firewalls, system management, system monitoring, security, storage</li>
-<li>Software distribution: configuration management, automatic installation</li>
-<li>Source management: git, hg, SVN, Rational Clearcase</li>
-<li>System administration, system support (Data Center Server Farm)</li>
-<li>Trainer: UNIX/Linux, MS-Windows, system administration, applications and
-    programming languages</li>
-</ul>
+##### Profile
 
-<p/><span id="h2">Experience</span>
-<ul>
-<li>Manager of Software Development, team remotely distributed</li>
-<li>Founder, CEO and Owner, Startup: Software development company</li>
-<li>Technical leadership of software teams</li>
-</ul>
-<ul>
-<li>iOS application development</li>
-</ul>
-<ul>
-<li>Network and security software</li>
-<li>Software-defined radio, TCP/IP optimized algorithms between wired and
-    wireless devices, IP header compression, efficient UDP and multicast.</li>
-<li>Secure message bus system for secure communication</li>
-<li>Network gateway TCP/IP &lt;-&gt; X.25 for banks to migrate ATMs from X.25
-    to TCP/IP. See:
-    <a href="https://github.com/randix/"
-       target="_default">github.com/randix</a></li>
-<li>Embedded system, cost-optimized router / gateway for satellite, UMTS and
-    WiFi communication</li>
-<li>Network traffic-profiling kernel module (FreeBSD)</li>
-<li>Web application for an embedded Network Intrusion Detection System</li>
-</ul>
-<ul>
-<li>Intelligent storage management</li>
-<li>Management console</li>
-<li>Web-based system monitoring and management tools.</li>
-<li>Multi-tier client/server web-based information publishing system</li>
-</ul>
-<ul>
-<li>Automated network-based installation and backups</li>
-<li>DOS-based terminal emulator emulating many terminals; with file transfer
+Experienced software engineer, infrastructure designer and entrepreneur with proven success in multiple large and small enterprises.
+
+Career emphasis is focused on using secure techologies in complex applications and systems.
+
+- Excellent communication skills
+- Self-starter, independent, yet team-oriented
+- Native language is English, business fluent in German
+
+##### Skills
+
+- Leadership: team, project, small company ownership
+- Architecture: software, systems, secure networking, applications, storage,
+      monitoring and management
+- Design: requirements analysis, specifications, testing requirements,
+      testability
+- Languages: expert level in Swift, C and Python, proficient in Objective C, C++,
+      JavaScript, and others
+- Software and systems life cycles
+- UNIX, Linux, iOS, MS-Windows, embedded systems
+- High reliability: 24x7, data center operations
+- Technologies: networking, client-server, middleware, databases, backup,
+      firewalls, system management, system monitoring, security, storage
+- Software distribution: configuration management, automatic installation
+- Source management: git, svn
+- System administration, system support (Data Center Server Farm)
+- Trainer: UNIX/Linux, MS-Windows, system administration, applications and
+      programming languages
+
+##### Experience
+
+- Manager of Software Development, team remotely distributed
+- Founder, CEO and Owner, Startup: Software development company
+- Technical leadership of software teams
+
+##### iOS application development
+
+Network and security software
+
+Software-defined radio, TCP/IP optimized algorithms between wired and
+    wireless devices, IP header compression, efficient UDP and multicast.
+
+Secure message bus system for secure communication
+
+Network gateway TCP/IP &lt;-&gt; X.25 for banks to migrate ATMs from X.25 to TCP
+
+Embedded system, cost-optimized router / gateway for satellite, UMTS and
+    WiFi communication
+
+Network traffic-profiling kernel module (FreeBSD)
+
+Web application for an embedded Network Intrusion Detection **System**
+
+Intelligent storage management
+
+Management console
+
+Web-based system monitoring and management tools.
+
+Multi-tier client/server web-based information publishing system
+
+Automated network-based installation and backups
+DOS-based terminal emulator emulating many terminals; with file transfer
     with UNIX systems and UNIX remote printing on the DOS-based PC (this sold
     over 300,000 copies in Europe)</li>
-</ul>
-<ul>
-<li>Locking and caching mechanism for UNIX-based process control systems for
-    the mobile telephone industry</li>
-<li>UNIX kernel and firmware</li>
-<li>UNIX device drivers</li>
-</ul>
-<ul>
-<li>Review hardware designs before board layout</li>
-<li>Diagnostics for multi-processor UNIX systems</li>
-<li>Power-up diagnostics and bootstrapping firmware</li>
-</ul>
-<ul>
-<li>Real-time acoustic navigation software under UNIX</li>
-<li>Real-time and control software.</li>
-</ul>
-<ul>
-<li>Test environment manager</li>
-<li>System administration of Unix systems in a banking environment</li>
-<li>Software release management</li>
-</ul>
-<ul>
-<li>Teach courses for process control systems</li>
-<li>Teach Unix kernel courses</li>
-</ul>
 
-<p/><span id="h2">Education</span>
+Locking and caching mechanism for UNIX-based process control systems for
+    the mobile telephone industry
 
-<ul>
-<li>Ph.D. Graduate Work in Analytical Chemistry <br />
-Oregon State University</li>
-<li>B.S. Chemistry: Professional <br />
-University of Idaho</li>
-</ul>
+UNIX kernel and firmware
+UNIX device drivers
 
-<a href="resume.html"><h4>Resume</h4></a>
+Review hardware designs before board layout
+Diagnostics for multi-processor UNIX systems
+Power-up diagnostics
+Software release management
+
+Teach courses for process control systems
+Teach Unix kernel courses
+
+##### Education
+
+Ph.D. Graduate Work in Analytical Chemistry, Oregon State University
+
+<br/>B.S. Chemistry: Professional, University of Idaho
