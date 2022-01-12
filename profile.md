@@ -87,5 +87,4 @@ Teach Unix kernel courses
 ##### Education
 
 Ph.D. Graduate Work in Analytical Chemistry, Oregon State University
-
 <br/>B.S. Chemistry: Professional, University of Idaho
