@@ -2,7 +2,7 @@
 
 [Jeep and Travel Trailer](https://randix.github.io/trailer)
 
-[Travel](https://randix.github.io/travel))
+[Travel](https://randix.github.io/travel)
 
 #### Randix LLC
 
