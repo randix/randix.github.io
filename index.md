@@ -1,7 +1,5 @@
 #### Journey USA
 
-[Jeep and Travel Trailer](https://randix.github.io/trailer)
-
 [Travel](https://randix.github.io/travel/index)
 
 #### Randix LLC
@@ -12,7 +10,7 @@ Randix has over 50 years of combined experience developing software.
 
 [Profile](https://randix.github.io/profile)
 
-##### iOS AppStore Apps
+#### iOS AppStore Apps
 
 [*Kiosk Contacts*](https://randix.github.io/KioskContacts)
 
