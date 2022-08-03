@@ -6,6 +6,6 @@
 
 [Jeep and Travel Trailer](https://randix.github.io/travel/trailer)
 
-![Barn at home](https://www.dropbox.com/s/gnlglffl8rw8p6x/Barn.jpg?dl=0)
+![Barn at home](https://randix.github.io/pics/barn.jpg)
 
 <font size=2>© 2021 Randix LLC</font>
