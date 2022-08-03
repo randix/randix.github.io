@@ -1,3 +1,5 @@
+[home](https://randix.github.io)
+
 #### Rand Dow
 
 [rand@randix.net](mailto:rand@randix.net)
@@ -88,3 +90,5 @@ Teach Unix kernel courses
 
 Ph.D. Graduate Work in Analytical Chemistry, Oregon State University
 <br/>B.S. Chemistry: Professional, University of Idaho
+
+<font size=2>© 2021 Randix LLC</font>

@@ -1,3 +1,5 @@
+[home](https://randix.github.io)
+
 ### Rand Dow
 
 [rand@randix.net](mailto:rand@randix.net)
@@ -280,3 +282,4 @@ Design and develop real-time and control software.
     University of Idaho</li>
 </ul>
 
+<font size=2>© 2021 Randix LLC</font>
