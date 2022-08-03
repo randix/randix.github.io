@@ -1,10 +1,10 @@
-#### Randix LLC
-
-##### Journey USA
+#### Journey USA
 
 [Jeep and Travel Trailer](https://randix.github.io/trailer)
 
 [Travel](https://randix.github.io/travel))
+
+#### Randix LLC
 
 ##### Profile
 
