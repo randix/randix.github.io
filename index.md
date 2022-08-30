@@ -6,7 +6,7 @@
 
 ##### Profile
 
-Randix has over 50 years of combined experience developing software. 
+Randix has over 40 years experience developing software. 
 
 [Profile](https://randix.github.io/profile)
 
@@ -14,4 +14,4 @@ Randix has over 50 years of combined experience developing software.
 
 [*Kiosk Contacts*](https://randix.github.io/KioskContacts)
 
-<font size=2>© 2021 Randix LLC</font>
+<font size=2>© 2022 Randix LLC</font>

@@ -40,9 +40,18 @@ to reasonably and efficiently meet enterprise needs.
 </ul>
 
 <p/><span id="h2">Work Experience</span>
+
+<p/><span id="h3">
+Senior iOS Software Engineer
+</span>&nbsp;&nbsp;<span id="date">
+6/2021 - present
+</span>
 <br/>
-A complete list of company names and references will be provided
-upon request.
+<ul>
+<li>iOS application and SDK development</li>
+<li>Secure networking</li>
+<li>Cryptographic signing</li>
+</ul>
 
 <p/><span id="h3">
 Consultant and Freelance Software Engineer
@@ -282,4 +291,4 @@ Design and develop real-time and control software.
     University of Idaho</li>
 </ul>
 
-<font size=2>© 2021 Randix LLC</font>
+<font size=2>© 2022 Randix LLC</font>
