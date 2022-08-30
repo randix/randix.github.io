@@ -2,8 +2,6 @@
 
 #### Travel
 
-[Preparations](https://randix.github.io/travel/preparations)
-
 [Jeep and Travel Trailer](https://randix.github.io/travel/trailer)
 
 Barn at home starting point.
