@@ -4,10 +4,6 @@
 
 #### Randix LLC
 
-##### Profile
-
-Randix has over 40 years experience developing software. 
-
 [Profile](https://randix.github.io/profile)
 
 #### iOS AppStore Apps

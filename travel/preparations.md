@@ -2,6 +2,26 @@
 
 #### Preparations
 
+##### Jeep - Tow Vehicle
+
+I'm driving a 2014 Jeep Wrangler 2-door.
+
+Supplies:
+
+- tools used during the camper conversion
+  - battery powered drill
+  - wrenches, screwdrivers,pliers, cutters, etc.
+  - spare supplies for electrical modifications
+- 2000 watt generator
+- battery charger
+- lithium battery car starter
+- jumper cables
+- off-road recovery (towing and air compressor)
+- camping chairs
+- extension cord
+
+##### Camp Trailer
+
 I bought a 5' x 8' cargo trailer. It has a window on the left side and a standard RV-style door on the right side. A standard cargo trailer door has the risk of someone on the outside locking the door such that anyone inside could not easily get out.
 
 Conversion to a camper trailer, the following modifications have been made:
@@ -30,18 +50,5 @@ Conversion to a camper trailer, the following modifications have been made:
 - gray water storage tank
 - clothes and jackets
 - storage for clothes under bed
-
-Jeep supplies:
-
-- tools used during the camper conversion
-  - battery powered drill
-  - wrenches, screwdrivers,pliers, cutters, etc.
-  - spare supplies for electrical modifications
-- 2000 watt generator
-- battery charger
-- lithium battery car starter
-- off-road recovery (towing and air compressor)
-- camping chairs
-- extension cord
 
 <font size=2>© 2022 Randix LLC</font>
