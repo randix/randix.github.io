@@ -1,5 +1,6 @@
-[home](https://randix.github.io)
-[up](https://randix.github.io/travel)
+<pre>
+[home](https://randix.github.io)   [up](https://randix.github.io/travel)
+</pre>
 
 #### Travel
 
