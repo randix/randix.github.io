@@ -1,7 +1,3 @@
-#### Journey USA
-
-[Travel](https://randix.github.io/travel/index)
-
 #### Randix LLC
 
 [Profile](https://randix.github.io/profile)
