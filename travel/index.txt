@@ -1,5 +1,4 @@
 <a href="{SRC}index.html">home</a> &nbsp;
-<a href="{SRC}travel/index.html">up</a>
 
 <h3>Travel</h3>
 
@@ -15,20 +14,24 @@ I expect to be a
 <a href="https://en.wikipedia.org/wiki/Digital_nomad" target="_blank">digital nomad</a>
 for about four months.
 
-<p/>
-<a href="{SRC}travel/220905-cda-devils-lake.html">To Billings</a>
-<p/>
-<a href="{SRC}travel/220831-220904-home-cda.html">Home to Coeur d'Alene</a>
-<p/>
-<a href="{SRC}travel/jeep-trailer.html">Jeep and Travel Trailer</a>
+
+<p/><a href="{SRC}travel/11-vermont.html">Through Vermont</a>
+<p/><a href="{SRC}travel/10-newyork.html">Through New York</a>
+<p/><a href="{SRC}travel/08-ohio-pennsylvania.html">Through Pennsylvania</a>
+<p/><a href="{SRC}travel/07-michigan.html">Through Michagan</a>
+<p/><a href="{SRC}travel/06-wisconsin.html">Through Wisconsin</a>
+<p/><a href="{SRC}travel/05-minnesota.html">Through Minnesota</a>
+<p/><a href="{SRC}travel/04-northdakota.html">Through North Dakota</a>
+<p/><a href="{SRC}travel/03-montana.html">Through Montana</a>
+<p/><a href="{SRC}travel/02-idaho.html">Through Idaho</a>
+<p/><a href="{SRC}travel/01-washington.html">Home through Washington</a>
+<p/><a href="{SRC}travel/jeep-trailer.html">Jeep and Travel Trailer</a>
 
 <p/>
 Trip:
-<br/>
-<img src="{SRC}travel/Travel-2022-09-16.png" style="width:1024px"/>
+<p/><img src="{SRC}travel/Travel-2022-09-16.png" style="width:1024px"/>
 
 <p/>
 Barn at home.
-<br/>
-<img alt="Barn at home" src="{SRC}travel/pics/barn.jpg" style="width:1024px"/>
+<p/><img src="{SRC}travel/pics/00-barn.jpg" width="640"/>
 

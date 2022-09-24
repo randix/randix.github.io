@@ -32,7 +32,7 @@ Career emphasis is focused on using secure techologies in complex applications a
 - Software distribution: configuration management, automatic installation
 - Source management: git, svn, others
 - System administration, system support (Data Center Server Farm)
-- Trainer: iOS, macOS,  UNIX/Linux, MS-Windows, applications and programming languages
+- Trainer: iOS, macOS, UNIX/Linux, MS-Windows, applications and programming languages
 
 ##### Experience
 
@@ -50,11 +50,11 @@ Secure message bus system for secure communication
 
 Network gateway TCP/IP <-> X.25 for banks to migrate ATMs from X.25 to TCP
 
-Embedded system, cost-optimized router / gateway for satellite, UMTS and  WiFi communication
+Embedded system, cost-optimized router / gateway for satellite, LTE/5G and  WiFi communication
 
 Network traffic-profiling kernel module (FreeBSD)
 
-Web application for an embedded Network Intrusion Detection
+Web application for embedded Network Intrusion Detection
 
 Intelligent storage management
 
@@ -66,7 +66,7 @@ Multi-tier client/server web-based information publishing system
 
 Automated network-based installation and backups
 
-DOS-based terminal emulator emulating many terminals; with file transfer with UNIX systems and UNIX remote printing on the DOS-based PC (this sold over 300,000 copies in Europe)
+DOS-based terminal emulator emulating many terminals; with file transfer to/from UNIX systems and UNIX remote printing on the DOS-based PC (this sold over 300,000 copies in Europe)
 
 Locking and caching mechanism for UNIX-based process control systems for the mobile telephone industry
 
@@ -91,4 +91,4 @@ Teach Unix kernel courses
 Ph.D. Graduate Work in Analytical Chemistry, Oregon State University
 <br/>B.S. Chemistry: Professional, University of Idaho
 
-<font size=2>© 2021 Randix LLC</font>
+<font size=2>© 2022 Randix LLC</font>

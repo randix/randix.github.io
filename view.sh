@@ -1,5 +1,9 @@
 #!/bin/sh
-set -x
 
-./gen.sh 'file:///Users/rand/Library/Mobile Documents/com~apple~CloudDocs/randix.net/'
+path='file:///Users/rand/Library/Mobile%20Documents/com~apple~CloudDocs/github-randix/randix.net/'
+
+./gen.sh "$path"
+
+#cd travel; ./gen.sh $path
+
 

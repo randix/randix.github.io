@@ -1,6 +1,8 @@
+<!-- these are manual -->
 <a href="{SRC}index.html">home</a> &nbsp;
 <a href="{SRC}travel/index.html">up</a> &nbsp;
-<a href="{SRC}travel/220831-220904-home-cda.html">next</a>
+<a href="{SRC}travel/01-washington.html">next</a>
+
 
 <h3>Jeep and Camp Trailer</h3>
 
@@ -61,16 +63,18 @@ Conversion to a camper trailer, the following modifications have been made:
 
 <p/>
 The jeep and the trailer.
-<br/>
-<img src="{SRC}travel/pics/00-jeep-trailer/jeep-trailer.jpeg" style="width: 100%"/>
+<p/><img src="{SRC}travel/pics/00-jeep-trailer/jeep-trailer.jpeg" width="640"/>
 
 <p/>
 The twin-sized bed.  The space under the bed is utilized for storage
 of clothes, computer gear, toilet, water, and ice chest, etc.
-<br/>
-<img src="{SRC}travel/pics/00-jeep-trailer/trailer-bed.jpg" style="width: 100%"/>
+<p/><img src="{SRC}travel/pics/00-jeep-trailer/trailer-bed.jpg" width="640"/>
 
 <p/>
 The table for cooking, eating, and working. There is a pantry shelf above this.
-<br/>
-<img src="{SRC}travel/pics/00-jeep-trailer/trailer-cook.jpg" style="width: 100%"/>
+<p/><img src="{SRC}travel/pics/00-jeep-trailer/trailer-cook.jpg" width="640"/>
+
+
+
+<p/><a href="{SRC}travel/01-washington.html">next</a>
+
