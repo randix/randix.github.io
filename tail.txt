@@ -1,0 +1,7 @@
+      <br/>
+      <p style="font-size:14px;"><a href="mailto:rand@randix.net">mail</a></p>
+      <p style="font-size:12px;">© 2021 Randix LLC</p>
+    </div>
+    </div>
+  </body>
+</html>

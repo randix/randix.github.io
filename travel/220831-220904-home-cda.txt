@@ -1,0 +1,110 @@
+<a href="{SRC}index.html">home</a> &nbsp;
+<a href="{SRC}travel/index.html">up</a> &nbsp;
+<a href="{SRC}travel/jeep-trailer.html">previous</a> &nbsp;
+<a href="{SRC}travel/220905-cda-devils-lake.html">next</a>
+
+<h3>31 August 2022 - From Home</h3>
+
+<p/>
+I finalized the packing and loading.  There is no room left in the
+trailer, and it is really not ready to go.  Oh, well, the rest will
+have to be done on the road.
+
+<p/>
+We went out to dinner after work, and had a great meal at Masala Bites in Dallas.
+
+<p/>
+Finally, around 8:30 I started out, driving north.  It was too late
+to go far, so I pulled into a rest area on I5 near Wilsonville and
+slept among the truckers.
+
+
+<h3>1 September 2022 - To Beaverton</h3>
+
+<p/>
+I departed around 5:30 AM and arrived to my son’s place in Beaverton
+for breakfast.  It is nice to see his family with the grandkids.
+High speed internet to work for the day!
+
+<p/>
+Today’s goal: Yakima, WA for overnight, and then to Leavenworth,
+WA for the next work stop.
+
+
+<h3>2 September 2022 - Yakima and Leavenworth</h3>
+
+<p/>
+Yakima is pretty. No pictures. I arrived, slept and drove on.
+
+<p/>
+Leavenworth is a city styled as a Bavarian, Germany village.  I was
+impressed by the authenticity in the building architecture, outside
+and inside.  This is a beautiful town for a foot tour, the smells
+and sights of authentic Bavarian food brought back a lot of memories.
+
+<br/>
+<img alt="Leavenworth" src="{SRC}travel/pics/00-leavenworth/leavenworth-1.jpg" style="width: 100%"/>
+<br/>
+<img alt="Leavenworth" src="{SRC}travel/pics/00-leavenworth/leavenworth-2.jpg" style="width: 100%"/>
+<br/>
+<img alt="Leavenworth" src="{SRC}travel/pics/00-leavenworth/leavenworth-3.jpg" style="width: 100%"/>
+<br/>
+<img alt="Leavenworth" src="{SRC}travel/pics/00-leavenworth/leavenworth-maypole.jpg" style="width: 100%"/>
+
+<p/>
+After the "Stadtbesichtigung" I headed out towards the east on Highway 2.
+The overnight was in Wilbur, WA.
+
+<h3>3 September 2022 - Spokane and Coeur d'Alene</h3>
+
+<p/>
+I had arranged to meet friends at 10:00 in Spokane, so got an early start.
+The sunrise was impressive, with the haze from the smoke of a forest fire and clouds.
+<br/>
+<img alt="Sunrise" src="{SRC}travel/pics/02-reardon/reardon-sunrise.jpg" style="width: 100%"/>
+<p/>
+The wheat fields seem endless.
+<br/>
+<img alt="Sunrise" src="{SRC}travel/pics/02-reardon/reardon-wheat.jpg" style="width: 100%"/>
+
+<p/>
+After a stop at Walmart and then a shower at the gym, we met,
+visited, had lunch and then went to visit more friends!
+
+
+<h3>4 September 2022 - Coeur d'Alene</h3>
+
+<p/>
+This morning presented an opportunity to oreganize the camp trailer.
+Now I can just go in and go to bed, get up, cook, and carry on.
+
+<p/>
+Coeur d'Alene is one of America's prettier cities, in my opinion.
+I spent the rest of the morning getting some breakfast, and taking
+a foot tour of the downtown area.
+
+<p/>
+Coeur d'Alene is famous for it's Hudson's Hamburgers, the beach,
+the hotel on the water with a boardwalk, and Tubb's Hill. You can
+hike around the hill in about 45 minutes, with views of the mountains
+and lakes.
+
+<p/>
+The boardwalk behind the hotel.
+<br/>
+<img src="{SRC}travel/pics/03-coeurdalene/cda-boardwalk2.jpg" style="width: 100%"/>
+
+<p/>
+The city beach.
+<br/>
+<img src="{SRC}travel/pics/03-coeurdalene/cda-beach.jpg" style="width: 100%"/>
+
+<p/>
+Tubb's hill in the background.
+<br/>
+<img src="{SRC}travel/pics/03-coeurdalene/cda-tubb.jpg" style="width: 100%"/>
+
+<p/>
+After I'd seen enough of Coeur d'Alene, I drove east and stayed
+just over the Montana boarder in a little place called De Borgia,
+MT.

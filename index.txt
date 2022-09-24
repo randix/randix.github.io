@@ -1,0 +1,10 @@
+<h3>Journey USA</h3>
+<a href="{SRC}travel/index.html">Travel</a>
+
+<h3>Randix LLC</h3>
+<h4>Profile</h4>
+Randix has many years experience developing software. 
+<p/><a href="https://randix.github.io/profile">Profile</a>
+
+<h4>iOS AppStore Apps</h4>
+<p/><a href="https://randix.github.io/KioskContacts">Kiosk Contacts</a>

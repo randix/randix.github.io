@@ -1,0 +1,34 @@
+<a href="{SRC}index.html">home</a> &nbsp;
+<a href="{SRC}travel/index.html">up</a>
+
+<h3>Travel</h3>
+
+<p/>
+Welcome to my 2022 journey!
+<p/>
+I plan to document my trip around the USA here.
+<p/>
+My plan is to see the trees turn colors in Maine and New England this fall.
+Then make my way to the southeast corner of the country,
+then to the southwest, and then home.
+I expect to be a
+<a href="https://en.wikipedia.org/wiki/Digital_nomad" target="_blank">digital nomad</a>
+for about four months.
+
+<p/>
+<a href="{SRC}travel/220905-cda-devils-lake.html">To Billings</a>
+<p/>
+<a href="{SRC}travel/220831-220904-home-cda.html">Home to Coeur d'Alene</a>
+<p/>
+<a href="{SRC}travel/jeep-trailer.html">Jeep and Travel Trailer</a>
+
+<p/>
+Trip:
+<br/>
+<img src="{SRC}travel/Travel-2022-09-16.png" style="width:1024px"/>
+
+<p/>
+Barn at home.
+<br/>
+<img alt="Barn at home" src="{SRC}travel/pics/barn.jpg" style="width:1024px"/>
+

@@ -1,0 +1,76 @@
+<a href="{SRC}index.html">home</a> &nbsp;
+<a href="{SRC}travel/index.html">up</a> &nbsp;
+<a href="{SRC}travel/220831-220904-home-cda.html">next</a>
+
+<h3>Jeep and Camp Trailer</h3>
+
+<h4>Jeep - Tow Vehicle</h4>
+
+I’m driving a 2014 Jeep Wrangler 2-door.
+
+<h5>Supplies:</h5>
+
+<ul>
+  <li>tools needed during the camper conversion</li>
+  <li>2000 watt generator</li>
+  <li>battery charger</li>
+  <li>lithium battery car starter</li>
+  <li>jumper cables</li>
+  <li>off-road recovery (towing and air compressor)</li>
+  <li>camping chairs</li>
+</ul>
+
+<h4>Camp Trailer</h4>
+
+I bought a 5’ x 8’ cargo trailer. It has a window on the left side and a standard RV-style door on the right side.
+
+<p/>
+Conversion to a camper trailer, the following modifications have been made:
+
+<ul>
+  <li>storage box on the trailer tongue</li>
+  <ul>
+    <li>diesel tank</li>
+    <li>battery</li>
+  </ul>
+  <li>electrical</li>
+  <ul>
+    <li>12V to 120V inverter</li>
+    <li>fuse box</li>
+    <li>diesel heater</li>
+    <li>USB/A and USB/C outlets</li>
+    <li>battery voltage monitor</li>
+  </ul>
+  <li>built-in shelves</li>
+  <ul>
+    <li>work table</li>
+    <li>storage shelf</li>
+  </ul>
+  <li>standard twin size bed with bedding</li>
+  <li>emergency cold weather sleeping bag</li>
+  <li>nightstand shelf</li>
+  <li>composting toilet</li>
+  <li>standard 3 D-cell camping LED light</li>
+  <li>butane camping cook stove</li>
+  <li>12 quart camping ice-box</li>
+  <li>cooking and eating utensils</li>
+  <li>clothes and jackets</li>
+  <li>storage for clothes under bed</li>
+  <li>bike rack and bicycle</li>
+</ul>
+
+<p/>
+The jeep and the trailer.
+<br/>
+<img src="{SRC}travel/pics/00-jeep-trailer/jeep-trailer.jpeg" style="width: 100%"/>
+
+<p/>
+The twin-sized bed.  The space under the bed is utilized for storage
+of clothes, computer gear, toilet, water, and ice chest, etc.
+<br/>
+<img src="{SRC}travel/pics/00-jeep-trailer/trailer-bed.jpg" style="width: 100%"/>
+
+<p/>
+The table for cooking, eating, and working. There is a pantry shelf above this.
+<br/>
+<img src="{SRC}travel/pics/00-jeep-trailer/trailer-cook.jpg" style="width: 100%"/>
