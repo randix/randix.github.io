@@ -63,7 +63,7 @@ Conversion to a camper trailer, the following modifications have been made:
 
 <p/>
 The jeep and the trailer.
-<p/><img src="{SRC}travel/pics/00-jeep-trailer/jeep-trailer.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/00-jeep-trailer/01-jeep-trailer.jpeg" width="640"/>
 
 <p/>
 The twin-sized bed.  The space under the bed is utilized for storage

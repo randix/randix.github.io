@@ -29,7 +29,7 @@ for about four months.
 
 <p/>
 Trip:
-<p/><img src="{SRC}travel/Travel-2022-09-16.png" style="width:1024px"/>
+<p/><a href="https://app.mapline.com/map/map_685b2de6/LksUPx4UazxyCXAUTD8UDz9mVj8UKzsMPz9aPz8UPz8UVFwUfx">Map</a>
 
 <p/>
 Barn at home.
