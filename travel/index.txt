@@ -17,7 +17,7 @@ for about four months.
 
 <p/><a href="{SRC}travel/11-vermont.html">Through Vermont</a>
 <p/><a href="{SRC}travel/10-newyork.html">Through New York</a>
-<p/><a href="{SRC}travel/08-ohio-pennsylvania.html">Through Pennsylvania</a>
+<p/><a href="{SRC}travel/08-ohio-pennsylvania.html">Through Ohio and Pennsylvania</a>
 <p/><a href="{SRC}travel/07-michigan.html">Through Michagan</a>
 <p/><a href="{SRC}travel/06-wisconsin.html">Through Wisconsin</a>
 <p/><a href="{SRC}travel/05-minnesota.html">Through Minnesota</a>
@@ -29,7 +29,9 @@ for about four months.
 
 <p/>
 Trip:
-<p/><a href="https://app.mapline.com/map/map_685b2de6/LksUPx4UazxyCXAUTD8UDz9mVj8UKzsMPz9aPz8UPz8UVFwUfx">Map</a>
+<p/>
+<a href="https://app.mapline.com/map/map_685b2de6/LksUPx4UazxyCXAUTD8UDz9mVj8UKzsMPz9aPz8UPz8UVFwUfx" target="_blank">Map<br/>
+<img src="{SRC}travel/pics/map.png" width="640"/></a>
 
 <p/>
 Barn at home.
