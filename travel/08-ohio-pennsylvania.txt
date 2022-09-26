@@ -1,0 +1,11 @@
+
+
+<h3>Ohio</h3>
+
+<p/><img src="{SRC}travel/pics/08-ohio/00-welcome-ohio.jpeg" width="640"/>
+
+<p/><img src="{SRC}travel/pics/08-ohio/01-cleveland.jpeg" width="640"/>
+
+<h3>Pennsylvania</h3>
+
+<p/><img src="{SRC}travel/pics/09-pensylvania/00-welcome-pennsylvania.jpeg" width="640"/>

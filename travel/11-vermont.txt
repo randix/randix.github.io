@@ -1,0 +1,9 @@
+
+
+<h3>Vermont</h3>
+
+<p/><img src="{SRC}travel/pics/11-vermont/00-welcome-vermont.jpeg" width="640"/>
+
+<p/><img src="{SRC}travel/pics/11-vermont/01-lake-champlain-bridge.jpeg" width="640"/>
+
+<p/><img src="{SRC}travel/pics/11-vermont/02-chai.jpeg" width="640"/>

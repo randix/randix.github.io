@@ -1,0 +1,14 @@
+
+<h3>Michigan</h3>
+
+<p/><img src="{SRC}travel/pics/07-michigan/01-welcome-michigan.jpg" width="640"/>
+<p/><img src="{SRC}travel/pics/07-michigan/02-eastern-time.jpg" width="640"/>
+<p/><img src="{SRC}travel/pics/07-michigan/03-mackinac-memorial.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/07-michigan/03-mackinac-bridge.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/07-michigan/04-me.jpeg" width="640"/>
+
+
+<p/><img src="{SRC}travel/pics/07-michigan/05-gaylord.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/07-michigan/06-gaylord-fachwerk.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/07-michigan/07-owosso-spcs.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/07-michigan/08-owosso-spcs.jpeg" width="640"/>

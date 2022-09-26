@@ -1,0 +1,58 @@
+
+
+<h3>New York</h3>
+
+
+
+<p/><img src="{SRC}travel/pics/10-newyork/00-welcome-ny.jpeg" width="640"/>
+
+<h3>Niagara Falls</h3>
+
+<p/><img src="{SRC}travel/pics/10-newyork/01-american.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/02-american.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/03-american.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/04-american.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/05-bridalveil.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/06-horseshoe.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/07-horseshoe.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/08-horseshoe.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/08-horseshoe.mov" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/09-horsehoe.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/10-horseshoe.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/11-horseshoe.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/12-location.jpeg" width="640"/>
+
+<h3>Rochester</h3>
+
+<p/><img src="{SRC}travel/pics/10-newyork/13-rochester-erie1.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/14-rochester-erie2.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/15-rochester-erie3.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/16-rochester-truepic1.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/17-rochester-truepic2.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/18-rochester-wegmans.jpeg" width="640"/>
+
+<h3>Canandaigua</h3>
+
+<p/><img src="{SRC}travel/pics/10-newyork/20-canandaigua1.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/21-canandaigua2.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/22-canandaigua3.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/23-canandaigua4.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/24-aldi.jpeg" width="640"/>
+
+<h3>Whiteface Mountain - 4,865 Feet</h3>
+
+<p/><img src="{SRC}travel/pics/10-newyork/25-happening.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/26-happening.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/28-whiteface-toll.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/29-road-up.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/30-castle.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/31-lake-placid.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/32-mountains.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/33-path-down.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/34-path-up.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/35-observatory.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/36-peak-finder.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/37-top-lake-pacid.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/39-color.jpeg" width="640"/>
+
+
