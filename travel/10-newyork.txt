@@ -43,6 +43,7 @@
 
 <p/><img src="{SRC}travel/pics/10-newyork/25-happening.jpeg" width="640"/>
 <p/><img src="{SRC}travel/pics/10-newyork/26-happening.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/27-happening.mov" width="640"/>
 <p/><img src="{SRC}travel/pics/10-newyork/28-whiteface-toll.jpeg" width="640"/>
 <p/><img src="{SRC}travel/pics/10-newyork/29-road-up.jpeg" width="640"/>
 <p/><img src="{SRC}travel/pics/10-newyork/30-castle.jpeg" width="640"/>
@@ -52,6 +53,7 @@
 <p/><img src="{SRC}travel/pics/10-newyork/34-path-up.jpeg" width="640"/>
 <p/><img src="{SRC}travel/pics/10-newyork/35-observatory.jpeg" width="640"/>
 <p/><img src="{SRC}travel/pics/10-newyork/36-peak-finder.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/10-newyork/38-all.mov" width="640"/>
 <p/><img src="{SRC}travel/pics/10-newyork/37-top-lake-pacid.jpeg" width="640"/>
 <p/><img src="{SRC}travel/pics/10-newyork/39-color.jpeg" width="640"/>
 

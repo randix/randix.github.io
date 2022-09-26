@@ -4,6 +4,7 @@ path='file:///Users/rand/Library/Mobile%20Documents/com~apple~CloudDocs/github-r
 
 ./gen.sh "$path"
 
-#cd travel; ./gen.sh $path
+cd travel
+./view.sh $path
 
 
