@@ -1,12 +1,12 @@
 
 <h3>Wisconsin</h3>
 
-<p/><img src="{SRC}travel/pics/06-wisconsin/00-welcome-wisconsin.jpg" width="640"/>
+<p/><img src="{SRC}travel/pics/06-wisconsin/00-welcome-wisconsin.jpg" width="100%"/>
 
 <p/>
 Bristol
 
 <h3>12 September 2022 - Bristol Friends</h3>
-<p/><img src="{SRC}travel/pics/06-wisconsin/01-backyard.jpeg" width="640"/>
-<p/><img src="{SRC}travel/pics/06-wisconsin/02-relax.jpeg" width="640"/>
-<p/><img src="{SRC}travel/pics/06-wisconsin/03-friends.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/06-wisconsin/01-backyard.jpeg" width="100%"/>
+<p/><img src="{SRC}travel/pics/06-wisconsin/02-relax.jpeg" width="100%"/>
+<p/><img src="{SRC}travel/pics/06-wisconsin/03-friends.jpeg" width="100%"/>

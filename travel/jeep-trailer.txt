@@ -63,16 +63,16 @@ Conversion to a camper trailer, the following modifications have been made:
 
 <p/>
 The jeep and the trailer.
-<p/><img src="{SRC}travel/pics/00-jeep-trailer/01-jeep-trailer.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/00-jeep-trailer/01-jeep-trailer.jpeg" width="100%"/>
 
 <p/>
 The twin-sized bed.  The space under the bed is utilized for storage
 of clothes, computer gear, toilet, water, and ice chest, etc.
-<p/><img src="{SRC}travel/pics/00-jeep-trailer/trailer-bed.jpg" width="640"/>
+<p/><img src="{SRC}travel/pics/00-jeep-trailer/trailer-bed.jpg" width="100%"/>
 
 <p/>
 The table for cooking, eating, and working. There is a pantry shelf above this.
-<p/><img src="{SRC}travel/pics/00-jeep-trailer/trailer-cook.jpg" width="640"/>
+<p/><img src="{SRC}travel/pics/00-jeep-trailer/trailer-cook.jpg" width="100%"/>
 
 
 

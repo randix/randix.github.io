@@ -2,8 +2,33 @@
 
 <h3>Vermont</h3>
 
-<p/><img src="{SRC}travel/pics/11-vermont/00-welcome-vermont.jpeg" width="640"/>
+<h4>25 September 2022</h4>
 
-<p/><img src="{SRC}travel/pics/11-vermont/01-lake-champlain-bridge.jpeg" width="640"/>
+<p/>
+After leaving the Adirondacks, I drove to the Port Henry and to the Lake Champlain Bridge there.
 
-<p/><img src="{SRC}travel/pics/11-vermont/02-chai.jpeg" width="640"/>
+<p/><img src="{SRC}travel/pics/11-vermont/00-welcome-vermont.jpeg" width="100%"/>
+
+<p/><img src="{SRC}travel/pics/11-vermont/01-lake-champlain-bridge.jpeg" width="100%"/>
+
+
+<p/>
+Burlington has a nice pedestrian zone, there I found an Indian
+restaurant. Then didn't have chai tee on the menu, but were happy
+to make one for me.
+
+<p/><img src="{SRC}travel/pics/11-vermont/03-burlington.jpeg" width="100%"/>
+<p/><img src="{SRC}travel/pics/11-vermont/02-chai.jpeg" width="100%"/>
+
+I stayed in another Williston!
+
+<h4>26 September 2022</h4>
+
+<p/>
+I found a nice coffee shop in Waterbury Village.
+<p/><img src="{SRC}travel/pics/11-vermont/04-kc-coffee.jpeg" width="100%"/>
+
+<p/>
+The Vermont capitol building.
+
+<p/><img src="{SRC}travel/pics/11-vermont/05-vermont-capitol.jpeg" width="100%"/>

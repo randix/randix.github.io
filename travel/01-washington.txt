@@ -23,6 +23,10 @@ I departed around 5:30 AM and arrived to my son’s place in Beaverton
 for breakfast.  It is nice to see his family with the grandkids.
 High speed internet to work for the day!
 
+<h3>Washington</h3>
+
+<p/><img src="{SRC}travel/pics/01-washington/00-welcome-washington.jpg" width="100%"/>
+
 <p/>
 Today’s goal: Yakima, WA for overnight, and then to Leavenworth,
 WA for the next work stop.
@@ -39,10 +43,10 @@ impressed with the authenticity in the building architecture, outside
 and inside.  This is a beautiful town for a foot tour, the smells
 and sights of authentic Bavarian food brought back a lot of memories.
 
-<p/><img src="{SRC}travel/pics/01-washington/leavenworth-1.jpg" width="640"/>
-<p/><img src="{SRC}travel/pics/01-washington/leavenworth-2.jpg" width="640"/>
-<p/><img src="{SRC}travel/pics/01-washington/leavenworth-3.jpg" width="640"/>
-<p/><img src="{SRC}travel/pics/01-washington/leavenworth-maypole.jpg" width="640"/>
+<p/><img src="{SRC}travel/pics/01-washington/leavenworth-1.jpg" width="100%"/>
+<p/><img src="{SRC}travel/pics/01-washington/leavenworth-2.jpg" width="100%"/>
+<p/><img src="{SRC}travel/pics/01-washington/leavenworth-3.jpg" width="100%"/>
+<p/><img src="{SRC}travel/pics/01-washington/leavenworth-maypole.jpg" width="100%"/>
 
 <p/>
 After the "Stadtbesichtigung" I headed out towards the east on Highway 2.
@@ -53,10 +57,10 @@ The overnight was in Wilbur, WA.
 <p/>
 I had arranged to meet friends at 10:00 in Spokane, so got an early start.
 The sunrise was impressive, with the haze from the smoke of a forest fire and clouds.
-<p/><img src="{SRC}travel/pics/01-washington/reardon-sunrise.jpg" width="640"/>
+<p/><img src="{SRC}travel/pics/01-washington/reardon-sunrise.jpg" width="100%"/>
 <p/>
 The wheat fields seem endless.
-<p/><img  src="{SRC}travel/pics/01-washington/reardon-wheat.jpg" width="640"/>
+<p/><img  src="{SRC}travel/pics/01-washington/reardon-wheat.jpg" width="100%"/>
 
 <p/>
 After a stop at Walmart and then a shower at the gym, we met at church,

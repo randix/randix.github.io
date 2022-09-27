@@ -14,26 +14,26 @@ I expect to be a
 <a href="https://en.wikipedia.org/wiki/Digital_nomad" target="_blank">digital nomad</a>
 for about four months.
 
-
-<p/><a href="{SRC}travel/11-vermont.html">Through Vermont</a>
-<p/><a href="{SRC}travel/10-newyork.html">Through New York</a>
-<p/><a href="{SRC}travel/08-ohio-pennsylvania.html">Through Ohio and Pennsylvania</a>
-<p/><a href="{SRC}travel/07-michigan.html">Through Michagan</a>
-<p/><a href="{SRC}travel/06-wisconsin.html">Through Wisconsin</a>
-<p/><a href="{SRC}travel/05-minnesota.html">Through Minnesota</a>
-<p/><a href="{SRC}travel/04-northdakota.html">Through North Dakota</a>
-<p/><a href="{SRC}travel/03-montana.html">Through Montana</a>
-<p/><a href="{SRC}travel/02-idaho.html">Through Idaho</a>
-<p/><a href="{SRC}travel/01-washington.html">Home through Washington</a>
-<p/><a href="{SRC}travel/jeep-trailer.html">Jeep and Travel Trailer</a>
+<br/><a href="{SRC}travel/12-newhampshire.html">Through New Hampshire</a>
+<br/><a href="{SRC}travel/11-vermont.html">Through Vermont</a>
+<br/><a href="{SRC}travel/10-newyork.html">Through New York</a>
+<br/><a href="{SRC}travel/08-ohio-pennsylvania.html">Through Ohio and Pennsylvania</a>
+<br/><a href="{SRC}travel/07-michigan.html">Through Michagan</a>
+<br/><a href="{SRC}travel/06-wisconsin.html">Through Wisconsin</a>
+<br/><a href="{SRC}travel/05-minnesota.html">Through Minnesota</a>
+<br/><a href="{SRC}travel/04-northdakota.html">Through North Dakota</a>
+<br/><a href="{SRC}travel/03-montana.html">Through Montana</a>
+<br/><a href="{SRC}travel/02-idaho.html">Through Idaho</a>
+<br/><a href="{SRC}travel/01-washington.html">Home through Washington</a>
+<br/><a href="{SRC}travel/jeep-trailer.html">Jeep and Travel Trailer</a>
 
 <p/>
-Trip:
-<p/>
+Tap on the following to see an up-to-date dynamic map:
+<br/>
 <a href="https://app.mapline.com/map/map_685b2de6/LksUPx4UazxyCXAUTD8UDz9mVj8UKzsMPz9aPz8UPz8UVFwUfx" target="_blank">Map<br/>
-<img src="{SRC}travel/pics/map.png" width="640"/></a>
+<img src="{SRC}travel/pics/map.png" width="100%"/></a>
 
 <p/>
 Barn at home.
-<p/><img src="{SRC}travel/pics/00-barn.jpg" width="640"/>
+<p/><img src="{SRC}travel/pics/00-barn.jpg" width="100%"/>
 

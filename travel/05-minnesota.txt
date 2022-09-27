@@ -1,10 +1,12 @@
 
 <h3>Minnesota</h3>
 
-<p/><img src="{SRC}travel/pics/05-minnesota/01-hw-mississippi.jpg" width="640"/>
-<p/><img src="{SRC}travel/pics/05-minnesota/02-lakeitaska.jpg" width="640"/>
-<p/><img src="{SRC}travel/pics/05-minnesota/03-mississipi.jpg" width="640"/>
-<p/><img src="{SRC}travel/pics/05-minnesota/04-hw-mississippi.jpg" width="640"/>
-<p/><img src="{SRC}travel/pics/05-minnesota/05-hw-mississippi.jpg" width="640"/>
-<p/><img src="{SRC}travel/pics/05-minnesota/05-mississippi.jpg" width="640"/>
-<p/><img src="{SRC}travel/pics/05-minnesota/06-mississippi.jpg" width="640"/>
+<p/><img src="{SRC}travel/pics/05-minnesota/00-welcome-minnesota.jpeg" width="100%"/>
+
+<p/><img src="{SRC}travel/pics/05-minnesota/01-hw-mississippi.jpg" width="100%"/>
+<p/><img src="{SRC}travel/pics/05-minnesota/02-lakeitaska.jpg" width="100%"/>
+<p/><img src="{SRC}travel/pics/05-minnesota/03-mississipi.jpg" width="100%"/>
+<p/><img src="{SRC}travel/pics/05-minnesota/04-hw-mississippi.jpg" width="100%"/>
+<p/><img src="{SRC}travel/pics/05-minnesota/05-hw-mississippi.jpg" width="100%"/>
+<p/><img src="{SRC}travel/pics/05-minnesota/05-mississippi.jpg" width="100%"/>
+<p/><img src="{SRC}travel/pics/05-minnesota/06-mississippi.jpg" width="100%"/>

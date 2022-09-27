@@ -1,6 +1,7 @@
 
 <h3>Montana</h3>
-<p>
+
+<p/><img src="{SRC}travel/pics/03-montana/00-welcome-montana.jpg" width="100%"/>
 
 <h3>5 September 2022 - To Billings, MT</h3>
 
@@ -15,7 +16,7 @@ on the path used by Lewis & Clark.
 In Billings, I stayed near some friends who recently moved from
 West Salem to Billings.
 
-<p/><img src="{SRC}travel/pics/03-montana/friends.jpg" width="640"/>
+<p/><img src="{SRC}travel/pics/03-montana/friends.jpg" width="100%"/>
 
 
 
@@ -24,6 +25,6 @@ West Salem to Billings.
 <p/>
 I drove Miles City, and worked there for the day.
 
-<p/><img src="{SRC}travel/pics/03-montana/miles-city.jpg" width="640"/>
+<p/><img src="{SRC}travel/pics/03-montana/miles-city.jpg" width="100%"/>
 
 
