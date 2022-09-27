@@ -1,7 +1,8 @@
 
 <h3>North Dakota</h3>
 
-<h3>7 September 2022 - Williston, ND</h3>
+<h4>Williston</h4>
+<h4>8 September 2022</h4>
 
 After work in Miles City, I drove on into North Dakota.
 <p/><img src="{SRC}travel/pics/04-northdakota/01-welcome-north-dakota.jpg" width="100%"/>
@@ -9,18 +10,39 @@ After work in Miles City, I drove on into North Dakota.
 <p/>
 Waking up in Williston, I found a coffee shop to work in.
 Afer work, I headed east.
+
+<h4>Rugby</h4>
+
 <p/> I was surprised to find:
 <p/><img src="{SRC}travel/pics/04-northdakota/02-rugby.jpg" width="100%"/>
 
 <p/>
 I stopped at a rest area in Leeds.
 
-<p/> Then into Devils Lake.
+<h4>Devils Lake</h4>
+<h4>9 September 2022</h4>
+
+<p/> Early morning I went on into Devils Lake.
 
 <p/><img src="{SRC}travel/pics/04-northdakota/03-devilslake.jpg" width="100%"/>
+
+<p/>
+I found a nice coffee shop:
 <p/><img src="{SRC}travel/pics/04-northdakota/04-devilslake-liquidbean.jpg" width="100%"/>
+
+<p/>There is a lake there.
 <p/><img src="{SRC}travel/pics/04-northdakota/05-devils-lake.jpg" width="100%"/>
+
+<h4>10 September 2022</h4>
+
+<p/>
+I attended a church and met several old friends there.
+
 <p/><img src="{SRC}travel/pics/04-northdakota/06-devilslake-cog.jpg" width="100%"/>
+
+<p/>
+Traveling on, I was very unsure of which way to go!
+
 <p/><img src="{SRC}travel/pics/04-northdakota/07-confusion.jpg" width="100%"/>
 
 

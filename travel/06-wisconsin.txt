@@ -3,10 +3,24 @@
 
 <p/><img src="{SRC}travel/pics/06-wisconsin/00-welcome-wisconsin.jpg" width="100%"/>
 
-<p/>
-Bristol
+<h4>Bristol</hr>
+<h4>12-13 September 2022</h4>
 
-<h3>12 September 2022 - Bristol Friends</h3>
+<p/>
+I stayed with some friends, and relaxed in the backyard.
 <p/><img src="{SRC}travel/pics/06-wisconsin/01-backyard.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/06-wisconsin/02-relax.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/06-wisconsin/03-friends.jpeg" width="100%"/>
+
+
+<p/>
+<h4>Sheboygan</hr>
+<h4>14 September 2022</h4>
+
+<p/>
+I visited the Kohler Design Center and found a coffee shop for the day.
+
+<p/>
+In the evening, I drove on to Menominee, MI.
+
+

@@ -1,21 +1,54 @@
 
 <h3>Michigan</h3>
 
+<h4>14 September 2022</h4>
+
+<p>
+Crossed into Michigan in the northern part.
+
 <p/><img src="{SRC}travel/pics/07-michigan/01-welcome-michigan.jpg" width="100%"/>
+
+<p>
+And I found the Eastern Time Zone.
+
 <p/><img src="{SRC}travel/pics/07-michigan/02-eastern-time.jpg" width="100%"/>
 
+<p/>
+I found a parking lot in Menominee. Love the name!
+
 <h4>Mackinac</h4>
+
+The Mackinac Bridge (French: pronounced Mackinaw) separates Lake Michigan and Lake Huron.
 
 <p/><img src="{SRC}travel/pics/07-michigan/03-mackinac-memorial.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/07-michigan/03-mackinac-bridge.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/07-michigan/04-me.jpeg" width="100%"/>
 
 <h4>Gaylord</h4>
+<h4>15 September 2022</h4>
+
+<p/>
+Gaylord is partnered with a Swiss town, and has some Swiss architecture.
 
 <p/><img src="{SRC}travel/pics/07-michigan/05-gaylord.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/07-michigan/06-gaylord-fachwerk.jpeg" width="100%"/>
 
+<p>
+I stayed in Durand.
+
 <h4>Owosso - Spring Vale Christian School</h4>
+<h4>16 September 2022</h4>
+
+<p/>
+I stopped in Owosso, met some old friends (no pics). 
+
+<p/>
+This used to be Spring Vale Acadamy and was a boarding school, but
+with the events of the last few years has converted to a non-boarding
+school.
 
 <p/><img src="{SRC}travel/pics/07-michigan/07-owosso-spcs.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/07-michigan/08-owosso-spcs.jpeg" width="100%"/>
+
+<p>
+I drove to Fremont, OH.

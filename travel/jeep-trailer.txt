@@ -1,7 +1,7 @@
 <!-- these are manual -->
-<a href="{SRC}index.html">home</a> &nbsp;
-<a href="{SRC}travel/index.html">up</a> &nbsp;
-<a href="{SRC}travel/01-washington.html">next</a>
+<a href="{SRC}index.html"><span style="font-size:14px;">home</span></a> &nbsp;
+<a href="{SRC}travel/index.html"><span style="font-size:14px;">up</span></a> &nbsp;
+<a href="{SRC}travel/01-washington.html"><span style="font-size:14px;">next</span></a>
 
 
 <h3>Jeep and Camp Trailer</h3>
@@ -13,7 +13,7 @@ I’m driving a 2014 Jeep Wrangler 2-door.
 <h5>Supplies:</h5>
 
 <ul>
-  <li>tools needed during the camper conversion</li>
+  <li>tools</li>
   <li>2000 watt generator</li>
   <li>battery charger</li>
   <li>lithium battery car starter</li>
@@ -30,11 +30,7 @@ I bought a 5’ x 8’ cargo trailer. It has a window on the left side and a sta
 Conversion to a camper trailer, the following modifications have been made:
 
 <ul>
-  <li>storage box on the trailer tongue</li>
-  <ul>
-    <li>diesel tank</li>
-    <li>battery</li>
-  </ul>
+  <li>storage box on the trailer tongue for a diesel tank</li>
   <li>electrical</li>
   <ul>
     <li>12V to 120V inverter</li>
@@ -52,12 +48,12 @@ Conversion to a camper trailer, the following modifications have been made:
   <li>emergency cold weather sleeping bag</li>
   <li>nightstand shelf</li>
   <li>composting toilet</li>
-  <li>standard 3 D-cell camping LED light</li>
+  <li>LED lights</li>
   <li>butane camping cook stove</li>
-  <li>12 quart camping ice-box</li>
+  <li>ice-box</li>
   <li>cooking and eating utensils</li>
   <li>clothes and jackets</li>
-  <li>storage for clothes under bed</li>
+  <li>storage for clothes</li>
   <li>bike rack and bicycle</li>
 </ul>
 
@@ -76,5 +72,5 @@ The table for cooking, eating, and working. There is a pantry shelf above this.
 
 
 
-<p/><a href="{SRC}travel/01-washington.html">next</a>
+<p/><a href="{SRC}travel/01-washington.html"><span style="font-size:14px;">next</span></a>
 

@@ -1,18 +1,23 @@
-<a href="{SRC}index.html">home</a> &nbsp;
+<a href="{SRC}index.html"><span style="font-size:14px;">home</span></a> &nbsp;
+<a href="{SRC}travel/jeep-trailer.html"><span style="font-size:14px;">next</span></a> &nbsp;
 
 <h3>Travel</h3>
 
 <p/>
 Welcome to my 2022 journey!
 <p/>
-I plan to document my trip around the USA here.
+I am documenting my trip around the USA here.
 <p/>
 My plan is to see the trees turn colors in Maine and New England this fall.
-Then make my way to the southeast corner of the country,
+It looks like I am right on time.. after a month of traveling to get to Maine.
+
+<p/>
+Then I plan to make my way to the southeast corner of the country,
 then to the southwest, and then home.
 I expect to be a
 <a href="https://en.wikipedia.org/wiki/Digital_nomad" target="_blank">digital nomad</a>
 for about four months.
+<p/>
 
 <br/><a href="{SRC}travel/12-newhampshire.html">Through New Hampshire</a>
 <br/><a href="{SRC}travel/11-vermont.html">Through Vermont</a>
@@ -37,3 +42,5 @@ Tap on the following to see an up-to-date dynamic map:
 Barn at home.
 <p/><img src="{SRC}travel/pics/00-barn.jpg" width="100%"/>
 
+<p/>
+<a href="{SRC}travel/jeep-trailer.html"><span style="font-size:14px;">next</span></a> &nbsp;

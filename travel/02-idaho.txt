@@ -3,17 +3,19 @@
 
 <p/><img src="{SRC}travel/pics/02-idaho/00-welcome-idaho.jpeg" width="100%"/>
 
-<h3>3 September 2022 - Post Falls and Spirit Lake</h3>
+<h4>Post Falls and Spirit Lake</h4>
+<h4>3 September 2022</h4>
 
 <p/>
 Visiting friends in Spirit Lake and Post Falls.
 
 <p/><img src="{SRC}travel/pics/02-idaho/01-friends.jpeg" width="100%"/>
 
-<h3>4 September 2022 - Coeur d'Alene</h3>
+<h4>Coeur d'Alene</h4>
+<h4>4 September 2022</h3>
 
 <p/>
-This morning presented an opportunity to oreganize the camp trailer.
+This morning presented an opportunity to organize the camp trailer.
 Now I can just go in and go to bed, get up, cook, and carry on.
 
 <p/>
@@ -30,14 +32,16 @@ and lakes.
 <p/>
 The boardwalk behind the hotel.
 <p/><img src="{SRC}travel/pics/02-idaho/02-cda-boardwalk.jpg" width="100%"/>
+
+<p>
+The following three photos show Tubb's Hill in the background.
+
 <p/><img src="{SRC}travel/pics/02-idaho/03-cda-boardwalk2.jpg" width="100%"/>
 
 <p/>
 The city beach.
 <p/><img src="{SRC}travel/pics/02-idaho/04-cda-beach.jpg" width="100%"/>
 
-<p/>
-Tubb's hill in the background.
 <p/>
 <img src="{SRC}travel/pics/02-idaho/05-cda-tubb.jpg" width="100%"/>
 
