@@ -2,49 +2,122 @@
 
 <h3>New York</h3>
 
-
+<h4>18 September 2022</h4>
 
 <p/><img src="{SRC}travel/pics/10-newyork/00-welcome-ny.jpeg" width="100%"/>
 
+I finally made it to Niaraga Falls!
+
 <h3>Niagara Falls</h3>
+
+<p/>
+American Falls.
 
 <p/><img src="{SRC}travel/pics/10-newyork/01-american.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/10-newyork/03-american.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/10-newyork/04-american.jpeg" width="100%"/>
+
+<p/>
+Bridal Veil Falls.
+
 <p/><img src="{SRC}travel/pics/10-newyork/05-bridalveil.jpeg" width="100%"/>
+
+<p/>
+Horeshoe Falls.
+
 <p/><img src="{SRC}travel/pics/10-newyork/06-horseshoe.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/10-newyork/07-horseshoe.jpeg" width="100%"/>
-<p/><img src="{SRC}travel/pics/10-newyork/08-horseshoe.mp4" width="100%"/>
 <p/><img src="{SRC}travel/pics/10-newyork/09-horseshoe.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/10-newyork/10-horseshoe.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/10-newyork/11-horseshoe.jpeg" width="100%"/>
+
 <p/><img src="{SRC}travel/pics/10-newyork/12-location.jpg" width="100%"/>
 
+
+<h4>19 September 2022</h4>
+<p/> 
+I drove to Lockport to work there.
+
+<p/>
+After work I took the scenic route by the lake (Route 18) and made my way to Rochester.
+I stayed in the southeast, near Fairport. 
+
 <h3>Rochester</h3>
+<h4>20-22 September 2022</h4>
+
+<p/>
+I worked in the southest of Rochester for three days. I had the opportunity to
+have dinner with my boss, Jason. Then I also met Dan, another co-worker. We
+met in a coffee shop by the Erie Canal.
 
 <p/><img src="{SRC}travel/pics/10-newyork/13-rochester-erie1.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/10-newyork/14-rochester-erie2.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/10-newyork/15-rochester-erie3.jpeg" width="100%"/>
+
+<p/>
+Left to right: Rand, Dan, Jason.
+
 <p/><img src="{SRC}travel/pics/10-newyork/16-rochester-truepic1.jpeg" width="100%"/>
+
+<p/>
+Left to right: Jason, Rand, Dan.
+
 <p/><img src="{SRC}travel/pics/10-newyork/17-rochester-truepic2.jpeg" width="100%"/>
+
+<p/>
+Wegmans is a large grocery store.
+
 <p/><img src="{SRC}travel/pics/10-newyork/18-rochester-wegmans.jpeg" width="100%"/>
 
-<h3>Canandaigua</h3>
+<p/>
+At the end of the day I drove to Canandaigua.
+
+<h4>Canandaigua</h4>
+
+<p/>
+It is a town near the end of one of the finger lakes in the Finger Lakes District.
+I enjoyed the docks and the tiny houses there.
 
 <p/><img src="{SRC}travel/pics/10-newyork/20-canandaigua1.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/10-newyork/21-canandaigua2.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/10-newyork/22-canandaigua3.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/10-newyork/23-canandaigua4.jpeg" width="100%"/>
+
+<p/>
+I was surprised to find an Aldi here. I hadn't seen one of those since Germany.
+
 <p/><img src="{SRC}travel/pics/10-newyork/24-aldi.jpeg" width="100%"/>
 
-<h3>Whiteface Mountain - 4,865 Feet</h3>
+<h4>23 September 2022</h4>
+
+<p/>
+I worked in Geneva today, then drove to Syracuse.
+
+<h4>24 September 2022</h4>
+
+I drove to Watertown and Tupper Lake. I met some travelers from Ottowa in Tupper Lake and we shared a meal together.
+
+<h4>25 September 2022</h4>
+
+I drove through Saranac Lake to Lake Placid.
+I went to a church in Lake Placid.
+
+<p/>
+On the drive up to Whiteface Mountain, I can see that the leaves are beginning to turn.
 
 <p/><img src="{SRC}travel/pics/10-newyork/25-happening.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/10-newyork/26-happening.jpeg" width="100%"/>
-<p/><img src="{SRC}travel/pics/10-newyork/27-happening.mp4" width="100%"/>
+
+<h3>Whiteface Mountain - 4,865 Feet</h3>
+
+<p/>
+The toll booth.
+
 <p/><img src="{SRC}travel/pics/10-newyork/28-whiteface-toll.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/10-newyork/29-road-up.jpeg" width="100%"/>
+
 <p/><img src="{SRC}travel/pics/10-newyork/30-castle.jpeg" width="100%"/>
+
 <p/><img src="{SRC}travel/pics/10-newyork/31-lake-placid.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/10-newyork/32-mountains.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/10-newyork/33-path-down.jpeg" width="100%"/>
@@ -53,6 +126,8 @@
 <p/><img src="{SRC}travel/pics/10-newyork/36-peak-finder.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/10-newyork/38-all.mp4" width="100%"/>
 <p/><img src="{SRC}travel/pics/10-newyork/37-top-lake-pacid.jpeg" width="100%"/>
+
+
 <p/><img src="{SRC}travel/pics/10-newyork/39-color.jpeg" width="100%"/>
 
 
