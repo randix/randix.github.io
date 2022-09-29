@@ -19,6 +19,8 @@ I expect to be a
 for about four months.
 <p/>
 
+<br/><a href="{SRC}travel/14-rhodeisland.html">Through Rhode Island</a>
+<br/><a href="{SRC}travel/13-maine.html">Through Maine</a>
 <br/><a href="{SRC}travel/12-newhampshire.html">Through New Hampshire</a>
 <br/><a href="{SRC}travel/11-vermont.html">Through Vermont</a>
 <br/><a href="{SRC}travel/10-newyork.html">Through New York</a>

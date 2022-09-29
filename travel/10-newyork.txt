@@ -124,9 +124,11 @@ The toll booth.
 <p/><img src="{SRC}travel/pics/10-newyork/34-path-up.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/10-newyork/35-observatory.jpeg" width="100%"/>
 <p/><img src="{SRC}travel/pics/10-newyork/36-peak-finder.jpeg" width="100%"/>
-<p/><img src="{SRC}travel/pics/10-newyork/38-all.mp4" width="100%"/>
-<p/><img src="{SRC}travel/pics/10-newyork/37-top-lake-pacid.jpeg" width="100%"/>
 
+<p/>
+The following video may not play on all devices.
+<p/><img akt="Panoramic video from the top." src="{SRC}travel/pics/10-newyork/38-all.mp4" width="100%"/>
+<p/><img src="{SRC}travel/pics/10-newyork/37-top-lake-pacid.jpeg" width="100%"/>
 
 <p/><img src="{SRC}travel/pics/10-newyork/39-color.jpeg" width="100%"/>
 
